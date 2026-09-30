@@ -1,9 +1,42 @@
-let routine=[],day=Number(localStorage.getItem('currentDay')||1),progress=JSON.parse(localStorage.getItem('progress')||'{}'),notes=JSON.parse(localStorage.getItem('notes')||'{}');
-const $=s=>document.querySelector(s);function save(){localStorage.setItem('currentDay',day);localStorage.setItem('progress',JSON.stringify(progress));localStorage.setItem('notes',JSON.stringify(notes))}
-function phase(n){return n<=239?'PHASE 1 — ACADEMIC':n<=340?'PHASE 2 — PRE ADMISSION':'PHASE 3 — FULL ADMISSION'}
-function render(){let d=routine[day-1];$('#phase').textContent=phase(day);$('#dayTitle').textContent='Day '+day;$('#dateText').textContent='Day-based tracking — PDF routine';let ts=d?.tasks||[];let key=i=>`${day}-${i}`;$('#tasks').innerHTML=ts.length?ts.map((t,i)=>{let done=!!progress[key(i)];return `<article class="task"><div class="taskTop"><span class="label">${esc(t.label)}</span><span>${done?'✅':'⬜'}</span></div><div class="title">${esc(t.title)}</div><small>Routine task</small><button class="check ${done?'done':''}" onclick="toggle(${i})">${done?'✓ Done':'Mark as Done'}</button></article>`}).join(''):'<div class="empty">এই Day-এর task text extraction-এ পাওয়া যায়নি। PDF-তে এই Day খুলে দেখে নাও।</div>';$('#note').value=notes[day]||'';updateStats()}
-function toggle(i){let k=`${day}-${i}`;progress[k]=!progress[k];save();render()}
-function updateStats(){let vals=Object.values(progress),done=vals.filter(Boolean).length;let total=Math.max(vals.length,1);let pct=Math.round(done/total*100);$('#pct').textContent=pct+'%';$('#done').textContent=done;$('#remaining').textContent=Math.max(391-new Set(Object.keys(progress).map(x=>+x.split('-')[0])).size,0);let s=0;for(let n=day;n>=1;n--){if(Object.keys(progress).some(k=>k.startsWith(n+'-')&&progress[k]))s++;else break}$('#streak').textContent=s}
-function esc(x){return String(x||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-$('#prev').onclick=()=>{day=Math.max(1,day-1);save();render()};$('#next').onclick=()=>{day=Math.min(391,day+1);save();render()};$('#today').onclick=()=>{day=Number(localStorage.getItem('currentDay')||1);render()};$('#note').oninput=e=>{notes[day]=e.target.value;save()};$('#settings').onclick=()=>alert('Progress এই browser-এর Local Storage-এ সেভ হয়। Browser data clear করলে progress মুছে যেতে পারে।');
-fetch('routine.json').then(r=>r.json()).then(x=>{routine=x;render()});
+// Register Service Worker
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js')
+        .then(reg => console.log('Service Worker Registered!', reg))
+        .catch(err => console.error('Service Worker Registration Failed!', err));
+}
+
+// Sample Data
+const tasks = [
+    { id: 1, day: "Day 1", topic: "ম্যাট্রিক্স ও নির্ণায়ক L-1 & ল্যাবরেটরির নিরাপদ ব্যবহার" },
+    { id: 2, day: "Day 2", topic: "ভৌত জগত ও পরিমাপ & কোষ ও এর গঠন L-1" },
+    { id: 3, day: "Day 3", topic: "অপরিচিতা L-1 & The Parrot's Tale" },
+    { id: 4, day: "Day 4", topic: "ম্যাট্রিক্স ও নির্ণায়ক L-2 & গুণগত রসায়ন" }
+];
+
+function renderTasks() {
+    const taskList = document.getElementById('taskList');
+    taskList.innerHTML = '';
+
+    tasks.forEach(task => {
+        const isCompleted = localStorage.getItem(`task_${task.id}`) === 'true';
+        const card = document.createElement('div');
+        card.className = `task-card ${isCompleted ? 'completed' : ''}`;
+        card.innerHTML = `
+            <div>
+                <strong>${task.day}:</strong> ${task.topic}
+            </div>
+            <button class="btn ${isCompleted ? 'done' : ''}" onclick="toggleTask(${task.id})">
+                ${isCompleted ? 'সম্পন্ন' : 'মার্কিং'}
+            </button>
+        `;
+        taskList.appendChild(card);
+    });
+}
+
+function toggleTask(id) {
+    const currentState = localStorage.getItem(`task_${id}`) === 'true';
+    localStorage.setItem(`task_${id}`, !currentState);
+    renderTasks();
+}
+
+document.addEventListener('DOMContentLoaded', renderTasks);

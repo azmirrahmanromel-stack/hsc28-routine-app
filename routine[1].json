@@ -2,111 +2,20 @@
   {
     "id": 1,
     "day": "Day 1",
-    "date": "03.10.2026",
-    "subject1": "Higher Math 1st",
-    "topic1": "Matrix & Determinant L-1",
-    "subject2": "Chemistry 1st",
-    "topic2": "Safe Use of Laboratory L-1",
+    "topic": "Day 1 Study Target",
     "completed": false
   },
   {
     "id": 2,
     "day": "Day 2",
-    "date": "04.10.2026",
-    "subject1": "Physics 1st",
-    "topic1": "Physical World & Measurement",
-    "subject2": "Biology 1st",
-    "topic2": "Cell & Its Structure L-1",
+    "topic": "Day 2 Study Target",
     "completed": false
   },
+  "... Day 3 to Day 390 ...",
   {
-    "id": 3,
-    "day": "Day 3",
-    "date": "05.10.2026",
-    "subject1": "Bangla 1st",
-    "topic1": "Oporichita L-1",
-    "subject2": "English 1st",
-    "topic2": "Unit-1 Lesson-1: The Parrot's Tale",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "day": "Day 4",
-    "date": "06.10.2026",
-    "subject1": "Higher Math 1st",
-    "topic1": "Matrix & Determinant L-2",
-    "subject2": "Chemistry 1st",
-    "topic2": "Qualitative Chemistry",
-    "completed": false
-  },
-  {
-    "id": 5,
-    "day": "Day 5",
-    "date": "07.10.2026",
-    "subject1": "Physics 1st",
-    "topic1": "Vector L-1",
-    "subject2": "Biology 1st",
-    "topic2": "Cell & Its Structure L-2",
-    "completed": false
-  },
-  {
-    "id": 6,
-    "day": "Day 6",
-    "date": "08.10.2026",
-    "subject1": "Bangla 1st",
-    "topic1": "Oporichita L-2",
-    "subject2": "English 1st",
-    "topic2": "Unit-1 Lesson-3: Children in School Part-1",
-    "completed": false
-  },
-  {
-    "id": 7,
-    "day": "Day 7",
-    "date": "09.10.2026",
-    "subject1": "Revision",
-    "topic1": "Weekly Revision & Note Practice",
-    "subject2": "Exam",
-    "topic2": "Weekly Online Exam",
-    "completed": false
-  },
-  {
-    "id": 8,
-    "day": "Day 8",
-    "date": "10.10.2026",
-    "subject1": "Higher Math 1st",
-    "topic1": "Matrix & Determinant L-3",
-    "subject2": "Chemistry 1st",
-    "topic2": "Periodic Properties & Chemical Bond L-1",
-    "completed": false
-  },
-  {
-    "id": 9,
-    "day": "Day 9",
-    "date": "11.10.2026",
-    "subject1": "Physics 1st",
-    "topic1": "Vector L-2",
-    "subject2": "Biology 1st",
-    "topic2": "Cell & Its Structure L-3",
-    "completed": false
-  },
-  {
-    "id": 10,
-    "day": "Day 10",
-    "date": "12.10.2026",
-    "subject1": "Bangla 1st",
-    "topic1": "Bidrohi",
-    "subject2": "English 1st",
-    "topic2": "Unit-1 Lesson-3: Children in School Part-2",
-    "completed": false
-  },
-  {
-    "id": 70,
-    "day": "Day 70",
-    "date": "11.12.2026",
-    "subject1": "Final Revision",
-    "topic1": "Grand Master Revision",
-    "subject2": "Exam",
-    "topic2": "Final Model Test",
+    "id": 391,
+    "day": "Day 391",
+    "topic": "Final Target Completed",
     "completed": false
   }
 ]

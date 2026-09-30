@@ -1,62 +1,9 @@
-// Register Service Worker
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js')
-        .then(reg => console.log('Service Worker Registered!', reg))
-        .catch(err => console.error('Service Worker Registration Failed!', err));
-}
-
-// 391 Days Data Generator
-const TOTAL_DAYS = 391;
-const startDate = new Date(2026, 9, 3); // 03.10.2026
-
-function generate391DaysData() {
-    const tasksList = [];
-    for (let i = 1; i <= TOTAL_DAYS; i++) {
-        const currentDate = new Date(startDate);
-        currentDate.setDate(startDate.getDate() + (i - 1));
-        
-        const dateStr = currentDate.toLocaleDateString('bn-BD', {
-            day: '2-digit',
-            month: '2-digit',
-            year: 'numeric'
-        });
-
-        tasksList.push({
-            id: i,
-            day: `Day ${i}`,
-            date: dateStr,
-            topic: `Day ${i}-এর নির্ধারিত পড়া ও টাস্ক রিভিশন`
-        });
-    }
-    return tasksList;
-}
-
-const tasks = generate391DaysData();
-
-function renderTasks() {
-    const taskList = document.getElementById('taskList');
-    taskList.innerHTML = '';
-
-    tasks.forEach(task => {
-        const isCompleted = localStorage.getItem(`task_${task.id}`) === 'true';
-        const card = document.createElement('div');
-        card.className = `task-card ${isCompleted ? 'completed' : ''}`;
-        card.innerHTML = `
-            <div>
-                <strong>${task.day} (${task.date}):</strong> ${task.topic}
-            </div>
-            <button class="btn ${isCompleted ? 'done' : ''}" onclick="toggleTask(${task.id})">
-                ${isCompleted ? 'সম্পন্ন' : 'মার্কিং'}
-            </button>
-        `;
-        taskList.appendChild(card);
-    });
-}
-
-function toggleTask(id) {
-    const currentState = localStorage.getItem(`task_${id}`) === 'true';
-    localStorage.setItem(`task_${id}`, !currentState);
-    renderTasks();
-}
-
-document.addEventListener('DOMContentLoaded', renderTasks);
+let routine=[],day=Number(localStorage.getItem('currentDay')||1),progress=JSON.parse(localStorage.getItem('progress')||'{}'),notes=JSON.parse(localStorage.getItem('notes')||'{}');
+const $=s=>document.querySelector(s);function save(){localStorage.setItem('currentDay',day);localStorage.setItem('progress',JSON.stringify(progress));localStorage.setItem('notes',JSON.stringify(notes))}
+function phase(n){return n<=239?'PHASE 1 — ACADEMIC':n<=340?'PHASE 2 — PRE ADMISSION':'PHASE 3 — FULL ADMISSION'}
+function render(){let d=routine[day-1];$('#phase').textContent=phase(day);$('#dayTitle').textContent='Day '+day;$('#dateText').textContent='Day-based tracking — PDF routine';let ts=d?.tasks||[];let key=i=>`${day}-${i}`;$('#tasks').innerHTML=ts.length?ts.map((t,i)=>{let done=!!progress[key(i)];return `<article class="task"><div class="taskTop"><span class="label">${esc(t.label)}</span><span>${done?'✅':'⬜'}</span></div><div class="title">${esc(t.title)}</div><small>Routine task</small><button class="check ${done?'done':''}" onclick="toggle(${i})">${done?'✓ Done':'Mark as Done'}</button></article>`}).join(''):'<div class="empty">এই Day-এর task text extraction-এ পাওয়া যায়নি। PDF-তে এই Day খুলে দেখে নাও।</div>';$('#note').value=notes[day]||'';updateStats()}
+function toggle(i){let k=`${day}-${i}`;progress[k]=!progress[k];save();render()}
+function updateStats(){let vals=Object.values(progress),done=vals.filter(Boolean).length;let total=Math.max(vals.length,1);let pct=Math.round(done/total*100);$('#pct').textContent=pct+'%';$('#done').textContent=done;$('#remaining').textContent=Math.max(391-new Set(Object.keys(progress).map(x=>+x.split('-')[0])).size,0);let s=0;for(let n=day;n>=1;n--){if(Object.keys(progress).some(k=>k.startsWith(n+'-')&&progress[k]))s++;else break}$('#streak').textContent=s}
+function esc(x){return String(x||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+$('#prev').onclick=()=>{day=Math.max(1,day-1);save();render()};$('#next').onclick=()=>{day=Math.min(391,day+1);save();render()};$('#today').onclick=()=>{day=Number(localStorage.getItem('currentDay')||1);render()};$('#note').oninput=e=>{notes[day]=e.target.value;save()};$('#settings').onclick=()=>alert('Progress এই browser-এর Local Storage-এ সেভ হয়। Browser data clear করলে progress মুছে যেতে পারে।');
+fetch('routine.json').then(r=>r.json()).then(x=>{routine=x;render()});

@@ -1,21 +1,3 @@
-[
-  {
-    "id": 1,
-    "day": "Day 1",
-    "topic": "Day 1 Study Target",
-    "completed": false
-  },
-  {
-    "id": 2,
-    "day": "Day 2",
-    "topic": "Day 2 Study Target",
-    "completed": false
-  },
-  "... Day 3 to Day 390 ...",
-  {
-    "id": 391,
-    "day": "Day 391",
-    "topic": "Final Target Completed",
-    "completed": false
-  }
-]
+{
+  "totalDays": 391
+}

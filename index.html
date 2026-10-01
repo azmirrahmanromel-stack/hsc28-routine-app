@@ -1,295 +1,449 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>স্টাডি প্ল্যানার অ্যাপ</title>
+<title>HSC 28 Academic Tracker</title>
 
-    <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#4CAF50">
+<link rel="manifest" href="manifest.json">
 
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+<style>
+*{
+  box-sizing:border-box;
+}
 
-        body {
-            font-family: "Segoe UI", Tahoma, sans-serif;
-            background: #f4f7f6;
-            padding: 20px;
-            color: #333;
-        }
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:#071707;
+  color:#fff;
+}
 
-        .container {
-            max-width: 650px;
-            margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
+header{
+  padding:20px 15px;
+  text-align:center;
+  background:#0b260b;
+  border-bottom:1px solid #1cff5b;
+}
 
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-            color: #2c3e50;
-            font-size: 25px;
-        }
+h1{
+  margin:0;
+  color:#39ff72;
+  font-size:24px;
+}
 
-        .progress {
-            text-align: center;
-            margin-bottom: 20px;
-            padding: 12px;
-            background: #e8f5e9;
-            border-radius: 8px;
-            font-weight: bold;
-            color: #2e7d32;
-        }
+.subtitle{
+  margin-top:7px;
+  color:#66ffff;
+  font-size:14px;
+}
 
-        .task-card {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 12px;
-            padding: 15px;
-            margin-bottom: 10px;
-            background: #f9f9f9;
-            border-left: 5px solid #4CAF50;
-            border-radius: 6px;
-        }
+.container{
+  max-width:900px;
+  margin:auto;
+  padding:15px;
+}
 
-        .task-card.completed {
-            border-left-color: #757575;
-            background: #eef2f0;
-            opacity: 0.7;
-        }
+.progress-box{
+  background:#0d210d;
+  border:1px solid #28ff68;
+  border-radius:14px;
+  padding:15px;
+  margin-bottom:15px;
+}
 
-        .task-info {
-            flex: 1;
-        }
+.progress-bar{
+  height:12px;
+  background:#183018;
+  border-radius:20px;
+  overflow:hidden;
+  margin-top:10px;
+}
 
-        .day {
-            font-weight: bold;
-            font-size: 17px;
-            color: #2c3e50;
-            margin-bottom: 5px;
-        }
+.progress{
+  height:100%;
+  width:0%;
+  background:#39ff72;
+  transition:.3s;
+}
 
-        .topic {
-            font-size: 14px;
-            color: #666;
-        }
+.controls{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  margin-bottom:15px;
+}
 
-        .task-card.completed .topic,
-        .task-card.completed .day {
-            text-decoration: line-through;
-        }
+input,select{
+  flex:1;
+  min-width:150px;
+  padding:12px;
+  border-radius:8px;
+  border:1px solid #39ff72;
+  background:#0b1c0b;
+  color:white;
+}
 
-        .btn {
-            background: #4CAF50;
-            color: white;
-            border: none;
-            padding: 8px 13px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-weight: bold;
-            min-width: 65px;
-        }
+.day{
+  background:#0d210d;
+  border:1px solid #245b2c;
+  border-radius:14px;
+  margin-bottom:14px;
+  padding:16px;
+}
 
-        .btn.done {
-            background: #757575;
-        }
+.day.done{
+  border-color:#39ff72;
+}
 
-        #error {
-            text-align: center;
-            color: #d32f2f;
-            padding: 20px;
-        }
-    </style>
+.day-title{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.day-title h2{
+  margin:0;
+  color:#39ff72;
+  font-size:20px;
+}
+
+.phase{
+  color:#66ffff;
+  font-size:13px;
+}
+
+.task{
+  margin-top:12px;
+  padding:12px;
+  background:#071507;
+  border-left:3px solid #39ff72;
+  border-radius:8px;
+}
+
+.subject{
+  color:#ffe45c;
+  font-weight:bold;
+  font-size:16px;
+}
+
+.topic{
+  margin-top:5px;
+  color:#fff;
+}
+
+.type{
+  margin-top:5px;
+  color:#aaa;
+  font-size:13px;
+}
+
+button{
+  margin-top:14px;
+  padding:10px 15px;
+  border:none;
+  border-radius:8px;
+  background:#39ff72;
+  color:#031003;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+button:hover{
+  opacity:.85;
+}
+
+.pdf{
+  background:#66ffff;
+  margin-left:5px;
+}
+
+.empty{
+  text-align:center;
+  padding:30px;
+  color:#aaa;
+}
+</style>
 </head>
 
 <body>
 
+<header>
+  <h1>HSC 28 ACADEMIC TRACKER</h1>
+  <div class="subtitle">Academic to Admission • 391 Days</div>
+</header>
+
 <div class="container">
 
-    <h1>🎯 ৩৯১ দিনের স্টাডি প্ল্যানার</h1>
+  <div class="progress-box">
+    <b id="progressText">0 / 391 Days Completed</b>
 
-    <div class="progress" id="progress">
-        Loading...
+    <div class="progress-bar">
+      <div class="progress" id="progress"></div>
     </div>
+  </div>
 
-    <div id="taskList"></div>
+  <div class="controls">
 
-    <div id="error"></div>
+    <input
+      id="search"
+      type="text"
+      placeholder="Search Day / Subject / Topic..."
+    >
+
+    <select id="phase">
+      <option value="all">All Phases</option>
+      <option value="1">Phase 1 — Academic</option>
+      <option value="2">Phase 2 — Pre Admission</option>
+      <option value="3">Phase 3 — Full Admission</option>
+    </select>
+
+  </div>
+
+  <div id="routine">
+    <div class="empty">Loading routine...</div>
+  </div>
 
 </div>
 
 <script>
 
-const STORAGE_KEY = "hsc28-study-progress";
+let routine = [];
+let completed = JSON.parse(
+  localStorage.getItem("hsc28_completed") || "{}"
+);
 
-async function loadRoutine() {
+async function loadRoutine(){
 
-    const taskList = document.getElementById("taskList");
-    const progress = document.getElementById("progress");
-    const errorBox = document.getElementById("error");
+  try{
 
-    try {
+    const response = await fetch("routine.json");
 
-        const response = await fetch("routine.json");
-
-        if (!response.ok) {
-            throw new Error("routine.json পাওয়া যায়নি");
-        }
-
-        const data = await response.json();
-
-        let routine = [];
-
-        /*
-         * routine.json থেকে 391 দিনের data তৈরি হবে
-         */
-        if (Array.isArray(data)) {
-
-            routine = data;
-
-        } else if (data.totalDays) {
-
-            for (let i = 1; i <= data.totalDays; i++) {
-
-                routine.push({
-                    id: i,
-                    day: "Day " + i,
-                    topic: "Day " + i + " Study Target"
-                });
-
-            }
-
-        }
-
-        if (routine.length === 0) {
-            throw new Error("কোনো routine পাওয়া যায়নি");
-        }
-
-        const saved =
-            JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-
-        taskList.innerHTML = "";
-
-        routine.forEach(item => {
-
-            const card = document.createElement("div");
-            card.className = "task-card";
-
-            const info = document.createElement("div");
-            info.className = "task-info";
-
-            const day = document.createElement("div");
-            day.className = "day";
-            day.textContent = item.day;
-
-            const topic = document.createElement("div");
-            topic.className = "topic";
-            topic.textContent = item.topic;
-
-            const button = document.createElement("button");
-            button.className = "btn";
-
-            const isCompleted = saved[item.id] === true;
-
-            if (isCompleted) {
-                card.classList.add("completed");
-                button.classList.add("done");
-                button.textContent = "Undo";
-            } else {
-                button.textContent = "Done";
-            }
-
-            button.onclick = function () {
-
-                const completed =
-                    card.classList.toggle("completed");
-
-                button.classList.toggle("done");
-
-                button.textContent =
-                    completed ? "Undo" : "Done";
-
-                saved[item.id] = completed;
-
-                localStorage.setItem(
-                    STORAGE_KEY,
-                    JSON.stringify(saved)
-                );
-
-                updateProgress(routine, saved);
-            };
-
-            info.appendChild(day);
-            info.appendChild(topic);
-
-            card.appendChild(info);
-            card.appendChild(button);
-
-            taskList.appendChild(card);
-
-        });
-
-        updateProgress(routine, saved);
-
-    } catch (error) {
-
-        taskList.innerHTML = "";
-
-        errorBox.textContent =
-            "⚠️ সমস্যা হয়েছে: " + error.message;
-
-        console.error(error);
+    if(!response.ok){
+      throw new Error("routine.json not found");
     }
+
+    routine = await response.json();
+
+    render();
+
+  }catch(error){
+
+    document.getElementById("routine").innerHTML = `
+      <div class="empty">
+        <h3>Routine load হয়নি</h3>
+        <p>Check করো যে <b>routine.json</b> একই folder/repository-তে আছে।</p>
+      </div>
+    `;
+
+    console.error(error);
+  }
 }
 
 
-function updateProgress(routine, saved) {
+function render(){
 
-    let completed = 0;
+  const search =
+    document.getElementById("search").value
+    .toLowerCase()
+    .trim();
 
-    routine.forEach(item => {
+  const phase =
+    document.getElementById("phase").value;
 
-        if (saved[item.id] === true) {
-            completed++;
-        }
+  const container =
+    document.getElementById("routine");
 
-    });
+  container.innerHTML = "";
 
-    document.getElementById("progress").textContent =
-        completed + " / " + routine.length +
-        " দিন সম্পন্ন";
+  let shown = 0;
+
+  routine.forEach(day => {
+
+    const text =
+      JSON.stringify(day).toLowerCase();
+
+    if(search && !text.includes(search)){
+      return;
+    }
+
+    if(
+      phase !== "all" &&
+      String(day.phase) !== phase
+    ){
+      return;
+    }
+
+    shown++;
+
+    const isDone =
+      completed[day.id] === true;
+
+    const card =
+      document.createElement("div");
+
+    card.className =
+      "day" + (isDone ? " done" : "");
+
+    let tasksHTML = "";
+
+    if(Array.isArray(day.tasks)){
+
+      day.tasks.forEach(task => {
+
+        tasksHTML += `
+          <div class="task">
+
+            <div class="subject">
+              ${task.subject || ""}
+            </div>
+
+            <div class="topic">
+              ${task.topic || ""}
+            </div>
+
+            ${
+              task.type
+              ? `<div class="type">${task.type}</div>`
+              : ""
+            }
+
+          </div>
+        `;
+
+      });
+
+    }else{
+
+      tasksHTML = `
+        <div class="task">
+          ${day.topic || "Study Target"}
+        </div>
+      `;
+
+    }
+
+    card.innerHTML = `
+
+      <div class="day-title">
+
+        <h2>
+          Day ${day.id}
+          ${isDone ? " ✓" : ""}
+        </h2>
+
+        <div class="phase">
+          ${day.phaseName || ""}
+        </div>
+
+      </div>
+
+      ${tasksHTML}
+
+      <button onclick="toggleDone(${day.id})">
+        ${isDone ? "↩ Undo" : "✓ Done"}
+      </button>
+
+      <button
+        class="pdf"
+        onclick="openPDF(${day.id})">
+        📖 PDF
+      </button>
+
+    `;
+
+    container.appendChild(card);
+
+  });
+
+  if(shown === 0){
+
+    container.innerHTML = `
+      <div class="empty">
+        No routine found.
+      </div>
+    `;
+
+  }
+
+  updateProgress();
 }
 
+
+function toggleDone(id){
+
+  completed[id] =
+    !completed[id];
+
+  localStorage.setItem(
+    "hsc28_completed",
+    JSON.stringify(completed)
+  );
+
+  render();
+}
+
+
+function updateProgress(){
+
+  const total =
+    routine.length || 391;
+
+  const done =
+    Object.values(completed)
+      .filter(Boolean)
+      .length;
+
+  const percent =
+    Math.min(
+      100,
+      Math.round((done / total) * 100)
+    );
+
+  document.getElementById(
+    "progressText"
+  ).textContent =
+    `${done} / ${total} Days Completed`;
+
+  document.getElementById(
+    "progress"
+  ).style.width =
+    percent + "%";
+}
+
+
+function openPDF(day){
+
+  /*
+    PDF page mapping:
+    Day 1 starts around PDF page 4.
+    This opens the original routine PDF.
+  */
+
+  window.open(
+    "routine.pdf",
+    "_blank"
+  );
+}
+
+
+document
+  .getElementById("search")
+  .addEventListener(
+    "input",
+    render
+  );
+
+document
+  .getElementById("phase")
+  .addEventListener(
+    "change",
+    render
+  );
 
 loadRoutine();
-
-
-/* Service Worker */
-
-if ("serviceWorker" in navigator) {
-
-    window.addEventListener("load", () => {
-
-        navigator.serviceWorker.register("sw.js")
-            .catch(error => {
-                console.log(
-                    "Service Worker Error:",
-                    error
-                );
-            });
-
-    });
-
-}
 
 </script>
 

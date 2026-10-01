@@ -7,9 +7,9 @@
     "pdfPage": 4,
     "tasks": [
       {
-        "subject": "HSC 28 Routine",
-        "topic": "Day 1 — exact routine is on PDF page 4",
-        "type": "Basic Class"
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 1 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
       }
     ]
   },
@@ -21,9 +21,9 @@
     "pdfPage": 4,
     "tasks": [
       {
-        "subject": "HSC 28 Routine",
-        "topic": "Day 2 — exact routine is on PDF page 4",
-        "type": "Basic Class"
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 2 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
       }
     ]
   },
@@ -35,27 +35,5442 @@
     "pdfPage": 4,
     "tasks": [
       {
-        "subject": "HSC 28 Routine",
-        "topic": "Day 3 — exact routine is on PDF page 4",
-        "type": "Basic Class"
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 3 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
       }
     ]
   },
-
   {
     "id": 4,
     "day": "Day 4",
     "phase": 1,
     "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 4 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "day": "Day 5",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 5 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "day": "Day 6",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 6 — see PDF page 4 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "day": "Day 7",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 7 — see PDF page 4 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "day": "Day 8",
+    "phase": 1,
+    "phaseName": "Academic",
     "pdfPage": 5,
     "tasks": [
       {
-        "subject": "HSC 28 Routine",
-        "topic": "Day 4 — exact routine is on PDF page 5",
-        "type": "Basic Class"
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 8 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "day": "Day 9",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 9 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "day": "Day 10",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 10 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "day": "Day 11",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 11 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "day": "Day 12",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 12 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "day": "Day 13",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 13 — see PDF page 5 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "day": "Day 14",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 14 — see PDF page 5 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "day": "Day 15",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 15 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "day": "Day 16",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 16 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "day": "Day 17",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 17 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "day": "Day 18",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 18 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "day": "Day 19",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 19 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "day": "Day 20",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 20 — see PDF page 6 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "day": "Day 21",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 6,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 21 — see PDF page 6 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "day": "Day 22",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 22 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "day": "Day 23",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 23 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "day": "Day 24",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 24 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "day": "Day 25",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 25 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "day": "Day 26",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 26 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "day": "Day 27",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 27 — see PDF page 7 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "day": "Day 28",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 7,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 28 — see PDF page 7 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "day": "Day 29",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 29 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "day": "Day 30",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 30 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "day": "Day 31",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 31 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "day": "Day 32",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 32 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "day": "Day 33",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 33 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "day": "Day 34",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 34 — see PDF page 8 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "day": "Day 35",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 8,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 35 — see PDF page 8 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "day": "Day 36",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 36 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "day": "Day 37",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 37 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "day": "Day 38",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 38 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "day": "Day 39",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 39 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "day": "Day 40",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 40 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "day": "Day 41",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 41 — see PDF page 9 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "day": "Day 42",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 9,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 42 — see PDF page 9 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "day": "Day 43",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 43 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "day": "Day 44",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 44 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "day": "Day 45",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 45 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "day": "Day 46",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 46 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "day": "Day 47",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 47 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "day": "Day 48",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 48 — see PDF page 10 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "day": "Day 49",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 10,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 49 — see PDF page 10 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "day": "Day 50",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 50 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "day": "Day 51",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 51 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "day": "Day 52",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 52 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "day": "Day 53",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 53 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "day": "Day 54",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 54 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "day": "Day 55",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 55 — see PDF page 11 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "day": "Day 56",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 11,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 56 — see PDF page 11 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "day": "Day 57",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 57 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "day": "Day 58",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 58 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "day": "Day 59",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 59 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "day": "Day 60",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 60 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "day": "Day 61",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 61 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "day": "Day 62",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 62 — see PDF page 12 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "day": "Day 63",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 12,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 63 — see PDF page 12 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "day": "Day 64",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 64 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "day": "Day 65",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 65 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "day": "Day 66",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 66 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "day": "Day 67",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 67 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "day": "Day 68",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 68 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "day": "Day 69",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 69 — see PDF page 13 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "day": "Day 70",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 13,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 70 — see PDF page 13 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "day": "Day 71",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 71 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "day": "Day 72",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 72 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "day": "Day 73",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 73 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "day": "Day 74",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 74 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "day": "Day 75",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 75 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "day": "Day 76",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 76 — see PDF page 14 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "day": "Day 77",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 14,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 77 — see PDF page 14 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "day": "Day 78",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 78 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "day": "Day 79",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 79 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "day": "Day 80",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 80 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "day": "Day 81",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 81 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "day": "Day 82",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 82 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "day": "Day 83",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 83 — see PDF page 15 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "day": "Day 84",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 15,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 84 — see PDF page 15 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "day": "Day 85",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 85 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "day": "Day 86",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 86 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "day": "Day 87",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 87 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "day": "Day 88",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 88 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "day": "Day 89",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 89 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "day": "Day 90",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 90 — see PDF page 16 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "day": "Day 91",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 16,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 91 — see PDF page 16 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "day": "Day 92",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 92 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "day": "Day 93",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 93 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "day": "Day 94",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 94 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "day": "Day 95",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 95 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "day": "Day 96",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 96 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "day": "Day 97",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 97 — see PDF page 17 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "day": "Day 98",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 17,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 98 — see PDF page 17 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "day": "Day 99",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 99 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "day": "Day 100",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 100 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "day": "Day 101",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 101 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "day": "Day 102",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 102 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "day": "Day 103",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 103 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "day": "Day 104",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 104 — see PDF page 18 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "day": "Day 105",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 18,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 105 — see PDF page 18 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "day": "Day 106",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 106 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "day": "Day 107",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 107 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "day": "Day 108",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 108 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "day": "Day 109",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 109 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "day": "Day 110",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 110 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "day": "Day 111",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 111 — see PDF page 19 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "day": "Day 112",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 19,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 112 — see PDF page 19 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "day": "Day 113",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 113 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "day": "Day 114",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 114 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "day": "Day 115",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 115 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "day": "Day 116",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 116 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "day": "Day 117",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 117 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "day": "Day 118",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 118 — see PDF page 20 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "day": "Day 119",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 20,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 119 — see PDF page 20 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "day": "Day 120",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 120 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "day": "Day 121",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 121 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "day": "Day 122",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 122 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "day": "Day 123",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 123 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "day": "Day 124",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 124 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "day": "Day 125",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 125 — see PDF page 21 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "day": "Day 126",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 21,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 126 — see PDF page 21 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "day": "Day 127",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 127 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "day": "Day 128",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 128 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "day": "Day 129",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 129 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "day": "Day 130",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 130 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "day": "Day 131",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 131 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "day": "Day 132",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 132 — see PDF page 22 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "day": "Day 133",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 22,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 133 — see PDF page 22 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "day": "Day 134",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 134 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "day": "Day 135",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 135 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "day": "Day 136",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 136 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "day": "Day 137",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 137 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "day": "Day 138",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 138 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "day": "Day 139",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 139 — see PDF page 23 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "day": "Day 140",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 23,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 140 — see PDF page 23 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "day": "Day 141",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 141 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "day": "Day 142",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 142 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "day": "Day 143",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 143 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "day": "Day 144",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 144 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "day": "Day 145",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 145 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "day": "Day 146",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 146 — see PDF page 24 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "day": "Day 147",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 24,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 147 — see PDF page 24 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "day": "Day 148",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 148 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "day": "Day 149",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 149 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "day": "Day 150",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 150 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "day": "Day 151",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 151 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "day": "Day 152",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 152 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "day": "Day 153",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 153 — see PDF page 25 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "day": "Day 154",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 25,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 154 — see PDF page 25 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "day": "Day 155",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 155 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "day": "Day 156",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 156 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "day": "Day 157",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 157 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "day": "Day 158",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 158 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "day": "Day 159",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 159 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "day": "Day 160",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 160 — see PDF page 26 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "day": "Day 161",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 26,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 161 — see PDF page 26 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "day": "Day 162",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 162 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "day": "Day 163",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 163 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "day": "Day 164",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 164 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "day": "Day 165",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 165 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "day": "Day 166",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 166 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "day": "Day 167",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 167 — see PDF page 27 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "day": "Day 168",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 27,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 168 — see PDF page 27 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "day": "Day 169",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 169 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "day": "Day 170",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 170 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "day": "Day 171",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 171 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "day": "Day 172",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 172 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "day": "Day 173",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 173 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "day": "Day 174",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 174 — see PDF page 28 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "day": "Day 175",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 28,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 175 — see PDF page 28 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "day": "Day 176",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 176 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "day": "Day 177",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 177 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "day": "Day 178",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 178 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "day": "Day 179",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 179 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "day": "Day 180",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 180 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "day": "Day 181",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 181 — see PDF page 29 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "day": "Day 182",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 29,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 182 — see PDF page 29 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "day": "Day 183",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 183 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "day": "Day 184",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 184 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "day": "Day 185",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 185 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "day": "Day 186",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 186 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "day": "Day 187",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 187 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "day": "Day 188",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 188 — see PDF page 30 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "day": "Day 189",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 30,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 189 — see PDF page 30 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "day": "Day 190",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 190 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "day": "Day 191",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 191 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "day": "Day 192",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 192 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "day": "Day 193",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 193 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "day": "Day 194",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 194 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "day": "Day 195",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 195 — see PDF page 31 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "day": "Day 196",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 31,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 196 — see PDF page 31 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "day": "Day 197",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 197 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "day": "Day 198",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 198 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "day": "Day 199",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 199 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "day": "Day 200",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 200 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "day": "Day 201",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 201 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "day": "Day 202",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 202 — see PDF page 32 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "day": "Day 203",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 32,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 203 — see PDF page 32 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "day": "Day 204",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 204 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "day": "Day 205",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 205 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "day": "Day 206",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 206 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "day": "Day 207",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 207 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "day": "Day 208",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 208 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "day": "Day 209",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 209 — see PDF page 33 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "day": "Day 210",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 33,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 210 — see PDF page 33 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "day": "Day 211",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 211 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "day": "Day 212",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 212 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "day": "Day 213",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 213 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "day": "Day 214",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 214 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "day": "Day 215",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 215 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "day": "Day 216",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 216 — see PDF page 34 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "day": "Day 217",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 34,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 217 — see PDF page 34 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "day": "Day 218",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 218 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "day": "Day 219",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 219 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "day": "Day 220",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 220 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "day": "Day 221",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 221 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "day": "Day 222",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 222 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "day": "Day 223",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 223 — see PDF page 35 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "day": "Day 224",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 35,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 224 — see PDF page 35 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "day": "Day 225",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 225 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "day": "Day 226",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 226 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "day": "Day 227",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 227 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "day": "Day 228",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 228 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "day": "Day 229",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 229 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "day": "Day 230",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 230 — see PDF page 36 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "day": "Day 231",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 36,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 231 — see PDF page 36 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "day": "Day 232",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 232 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "day": "Day 233",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 233 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "day": "Day 234",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 234 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "day": "Day 235",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 235 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "day": "Day 236",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 236 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "day": "Day 237",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 237 — see PDF page 37 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "day": "Day 238",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 37,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 238 — see PDF page 37 for the exact routine",
+        "type": "Revision + Online Exam"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "day": "Day 239",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 239 — see PDF page 38 for the exact routine",
+        "type": "Basic Class / Study"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "day": "Day 240",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 240 — see PDF page 38 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "day": "Day 241",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 241 — see PDF page 38 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "day": "Day 242",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 242 — see PDF page 38 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "day": "Day 243",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 243 — see PDF page 38 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "day": "Day 244",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 244 — see PDF page 38 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "day": "Day 245",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 38,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 245 — see PDF page 38 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "day": "Day 246",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 246 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "day": "Day 247",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 247 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "day": "Day 248",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 248 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "day": "Day 249",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 249 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "day": "Day 250",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 250 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "day": "Day 251",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 251 — see PDF page 39 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "day": "Day 252",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 39,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 252 — see PDF page 39 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "day": "Day 253",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 253 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "day": "Day 254",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 254 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "day": "Day 255",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 255 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "day": "Day 256",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 256 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "day": "Day 257",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 257 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "day": "Day 258",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 258 — see PDF page 40 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "day": "Day 259",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 40,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 259 — see PDF page 40 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "day": "Day 260",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 260 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "day": "Day 261",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 261 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "day": "Day 262",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 262 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "day": "Day 263",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 263 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "day": "Day 264",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 264 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "day": "Day 265",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 265 — see PDF page 41 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "day": "Day 266",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 41,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 266 — see PDF page 41 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "day": "Day 267",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 267 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "day": "Day 268",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 268 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "day": "Day 269",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 269 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "day": "Day 270",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 270 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "day": "Day 271",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 271 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "day": "Day 272",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 272 — see PDF page 42 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "day": "Day 273",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 42,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 273 — see PDF page 42 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "day": "Day 274",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 274 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "day": "Day 275",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 275 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "day": "Day 276",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 276 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "day": "Day 277",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 277 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "day": "Day 278",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 278 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "day": "Day 279",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 279 — see PDF page 43 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "day": "Day 280",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 43,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 280 — see PDF page 43 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "day": "Day 281",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 281 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "day": "Day 282",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 282 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "day": "Day 283",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 283 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "day": "Day 284",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 284 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "day": "Day 285",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 285 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "day": "Day 286",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 286 — see PDF page 44 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "day": "Day 287",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 44,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 287 — see PDF page 44 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "day": "Day 288",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 288 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "day": "Day 289",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 289 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "day": "Day 290",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 290 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "day": "Day 291",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 291 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "day": "Day 292",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 292 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "day": "Day 293",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 293 — see PDF page 45 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "day": "Day 294",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 45,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 294 — see PDF page 45 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "day": "Day 295",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 295 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "day": "Day 296",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 296 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "day": "Day 297",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 297 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "day": "Day 298",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 298 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "day": "Day 299",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 299 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "day": "Day 300",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 300 — see PDF page 46 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "day": "Day 301",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 46,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 301 — see PDF page 46 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "day": "Day 302",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 302 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "day": "Day 303",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 303 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "day": "Day 304",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 304 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "day": "Day 305",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 305 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "day": "Day 306",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 306 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "day": "Day 307",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 307 — see PDF page 47 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "day": "Day 308",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 47,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 308 — see PDF page 47 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "day": "Day 309",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 309 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "day": "Day 310",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 310 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "day": "Day 311",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 311 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "day": "Day 312",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 312 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "day": "Day 313",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 313 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "day": "Day 314",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 314 — see PDF page 48 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "day": "Day 315",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 48,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 315 — see PDF page 48 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "day": "Day 316",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 316 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "day": "Day 317",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 317 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "day": "Day 318",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 318 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "day": "Day 319",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 319 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "day": "Day 320",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 320 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "day": "Day 321",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 321 — see PDF page 49 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "day": "Day 322",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 49,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 322 — see PDF page 49 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "day": "Day 323",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 323 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "day": "Day 324",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 324 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "day": "Day 325",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 325 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "day": "Day 326",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 326 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "day": "Day 327",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 327 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "day": "Day 328",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 328 — see PDF page 50 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "day": "Day 329",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 50,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 329 — see PDF page 50 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "day": "Day 330",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 330 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "day": "Day 331",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 331 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "day": "Day 332",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 332 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "day": "Day 333",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 333 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "day": "Day 334",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 334 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "day": "Day 335",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 335 — see PDF page 51 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "day": "Day 336",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 51,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 336 — see PDF page 51 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "day": "Day 337",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 337 — see PDF page 52 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "day": "Day 338",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 338 — see PDF page 52 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "day": "Day 339",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 339 — see PDF page 52 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "day": "Day 340",
+    "phase": 2,
+    "phaseName": "Pre Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 340 — see PDF page 52 for the exact routine",
+        "type": "QB / Math Solving"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "day": "Day 341",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 341 — see PDF page 52 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "day": "Day 342",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 342 — see PDF page 52 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "day": "Day 343",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 52,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 343 — see PDF page 52 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "day": "Day 344",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 344 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "day": "Day 345",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 345 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "day": "Day 346",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 346 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "day": "Day 347",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 347 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "day": "Day 348",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 348 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "day": "Day 349",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 349 — see PDF page 53 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "day": "Day 350",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 53,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 350 — see PDF page 53 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "day": "Day 351",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 351 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "day": "Day 352",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 352 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "day": "Day 353",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 353 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "day": "Day 354",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 354 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "day": "Day 355",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 355 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "day": "Day 356",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 356 — see PDF page 54 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "day": "Day 357",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 54,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 357 — see PDF page 54 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "day": "Day 358",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 358 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "day": "Day 359",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 359 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "day": "Day 360",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 360 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "day": "Day 361",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 361 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "day": "Day 362",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 362 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "day": "Day 363",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 363 — see PDF page 55 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "day": "Day 364",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 55,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 364 — see PDF page 55 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "day": "Day 365",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 365 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "day": "Day 366",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 366 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "day": "Day 367",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 367 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "day": "Day 368",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 368 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "day": "Day 369",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 369 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "day": "Day 370",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 370 — see PDF page 56 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "day": "Day 371",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 56,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 371 — see PDF page 56 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "day": "Day 372",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 372 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "day": "Day 373",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 373 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "day": "Day 374",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 374 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "day": "Day 375",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 375 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "day": "Day 376",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 376 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "day": "Day 377",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 377 — see PDF page 57 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "day": "Day 378",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 57,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 378 — see PDF page 57 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "day": "Day 379",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 379 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "day": "Day 380",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 380 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "day": "Day 381",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 381 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "day": "Day 382",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 382 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "day": "Day 383",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 383 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "day": "Day 384",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 384 — see PDF page 58 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "day": "Day 385",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 58,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 385 — see PDF page 58 for the exact routine",
+        "type": "Revision / Practice"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "day": "Day 386",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 386 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "day": "Day 387",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 387 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "day": "Day 388",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 388 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "day": "Day 389",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 389 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "day": "Day 390",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 390 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "day": "Day 391",
+    "phase": 3,
+    "phaseName": "Full Admission",
+    "pdfPage": 59,
+    "tasks": [
+      {
+        "subject": "HSC 28 Academic to Admission",
+        "topic": "Day 391 — see PDF page 59 for the exact routine",
+        "type": "Admission Preparation"
       }
     ]
   }
-
-  // এভাবে 391 পর্যন্ত যাবে
 ]

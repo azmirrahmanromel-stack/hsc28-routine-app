@@ -1,3 +1,61 @@
-{
-  "totalDays": 391
-}
+[
+  {
+    "id": 1,
+    "day": "Day 1",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Routine",
+        "topic": "Day 1 — exact routine is on PDF page 4",
+        "type": "Basic Class"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "day": "Day 2",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Routine",
+        "topic": "Day 2 — exact routine is on PDF page 4",
+        "type": "Basic Class"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "day": "Day 3",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 4,
+    "tasks": [
+      {
+        "subject": "HSC 28 Routine",
+        "topic": "Day 3 — exact routine is on PDF page 4",
+        "type": "Basic Class"
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "day": "Day 4",
+    "phase": 1,
+    "phaseName": "Academic",
+    "pdfPage": 5,
+    "tasks": [
+      {
+        "subject": "HSC 28 Routine",
+        "topic": "Day 4 — exact routine is on PDF page 5",
+        "type": "Basic Class"
+      }
+    ]
+  }
+
+  // এভাবে 391 পর্যন্ত যাবে
+]
